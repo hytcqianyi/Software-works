@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HYTC.bbs">
+</Property><Property Name="解决方案文件" Value="D:\文件\大三下\侯伟\新建文件夹\HYTC.bbs - 副本\HYTC.bbs.sln">
+</Property><Property Name="Date" Value="2014年3月2日">
+</Property><Property Name="Time" Value="22:43">
+</Property></Properties><Event ErrorLevel="0" Project="HYTC.bbs" Source="HYTC.bbs\HYTC.bbs.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="HYTC.bbs" Source="HYTC.bbs\HYTC.bbs.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="HYTC.bbs.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="HYTC.bbs.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="HYTC.bbs" Source="HYTC.bbs\HYTC.bbs.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
