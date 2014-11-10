@@ -1,0 +1,46 @@
+D:\Backup\我的文档\Visual Studio 2008\Projects\HYTC.bbs\HYTC.bbs\bin\HYTC.bbs.dll
+D:\Backup\我的文档\Visual Studio 2008\Projects\HYTC.bbs\HYTC.bbs\bin\HYTC.bbs.pdb
+D:\Backup\我的文档\Visual Studio 2008\Projects\HYTC.bbs\HYTC.bbs\obj\Debug\ResolveAssemblyReference.cache
+D:\Backup\我的文档\Visual Studio 2008\Projects\HYTC.bbs\HYTC.bbs\obj\Debug\HYTC.bbs.dll
+D:\Backup\我的文档\Visual Studio 2008\Projects\HYTC.bbs\HYTC.bbs\obj\Debug\HYTC.bbs.pdb
+C:\Documents and Settings\Administrator\桌面\HYTC.bbs\HYTC.bbs\bin\HYTC.bbs.dll
+C:\Documents and Settings\Administrator\桌面\HYTC.bbs\HYTC.bbs\bin\HYTC.bbs.pdb
+C:\Documents and Settings\Administrator\桌面\HYTC.bbs\HYTC.bbs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\HYTC.bbs\HYTC.bbs\obj\Debug\HYTC.bbs.dll
+C:\Documents and Settings\Administrator\桌面\HYTC.bbs\HYTC.bbs\obj\Debug\HYTC.bbs.pdb
+D:\文件\大三下\侯伟\新建文件夹\HYTC.bbs - 副本\HYTC.bbs\bin\HYTC.bbs.dll
+D:\文件\大三下\侯伟\新建文件夹\HYTC.bbs - 副本\HYTC.bbs\bin\HYTC.bbs.pdb
+D:\文件\大三下\侯伟\新建文件夹\HYTC.bbs - 副本\HYTC.bbs\obj\Debug\ResolveAssemblyReference.cache
+D:\文件\大三下\侯伟\新建文件夹\HYTC.bbs - 副本\HYTC.bbs\obj\Debug\HYTC.bbs.dll
+D:\文件\大三下\侯伟\新建文件夹\HYTC.bbs - 副本\HYTC.bbs\obj\Debug\HYTC.bbs.pdb
+D:\文件\大三下\HYTC.bbs - 副本\HYTC.bbs\bin\HYTC.bbs.dll
+D:\文件\大三下\HYTC.bbs - 副本\HYTC.bbs\bin\HYTC.bbs.pdb
+D:\文件\大三下\HYTC.bbs - 副本\HYTC.bbs\obj\Debug\ResolveAssemblyReference.cache
+D:\文件\大三下\HYTC.bbs - 副本\HYTC.bbs\obj\Debug\HYTC.bbs.dll
+D:\文件\大三下\HYTC.bbs - 副本\HYTC.bbs\obj\Debug\HYTC.bbs.pdb
+D:\文件\大三下\HYTC.bbs - 副本 - 副本\HYTC.bbs\bin\HYTC.bbs.dll
+D:\文件\大三下\HYTC.bbs - 副本 - 副本\HYTC.bbs\bin\HYTC.bbs.pdb
+D:\文件\大三下\HYTC.bbs - 副本 - 副本\HYTC.bbs\obj\Debug\ResolveAssemblyReference.cache
+D:\文件\大三下\HYTC.bbs - 副本 - 副本\HYTC.bbs\obj\Debug\HYTC.bbs.dll
+D:\文件\大三下\HYTC.bbs - 副本 - 副本\HYTC.bbs\obj\Debug\HYTC.bbs.pdb
+D:\文件\大三下\第六次课\HYTC.bbs第六次课后2\HYTC.bbs\bin\HYTC.bbs.dll
+D:\文件\大三下\第六次课\HYTC.bbs第六次课后2\HYTC.bbs\bin\HYTC.bbs.pdb
+D:\文件\大三下\第六次课\HYTC.bbs第六次课后2\HYTC.bbs\obj\Debug\ResolveAssemblyReference.cache
+D:\文件\大三下\第六次课\HYTC.bbs第六次课后2\HYTC.bbs\obj\Debug\HYTC.bbs.dll
+D:\文件\大三下\第六次课\HYTC.bbs第六次课后2\HYTC.bbs\obj\Debug\HYTC.bbs.pdb
+D:\文件\大三下\第八次课\HYTC.bbs第八次课后\HYTC.bbs\bin\HYTC.bbs.dll
+D:\文件\大三下\第八次课\HYTC.bbs第八次课后\HYTC.bbs\bin\HYTC.bbs.pdb
+D:\文件\大三下\第八次课\HYTC.bbs第八次课后\HYTC.bbs\obj\Debug\ResolveAssemblyReference.cache
+D:\文件\大三下\第八次课\HYTC.bbs第八次课后\HYTC.bbs\obj\Debug\HYTC.bbs.dll
+D:\文件\大三下\第八次课\HYTC.bbs第八次课后\HYTC.bbs\obj\Debug\HYTC.bbs.pdb
+D:\文件\大三下\第十次课\HYTC.bbs第十次课\HYTC.bbs\bin\HYTC.bbs.dll
+D:\文件\大三下\第十次课\HYTC.bbs第十次课\HYTC.bbs\bin\HYTC.bbs.pdb
+D:\文件\大三下\第十次课\HYTC.bbs第十次课\HYTC.bbs\obj\Debug\ResolveAssemblyReference.cache
+D:\文件\大三下\第十次课\HYTC.bbs第十次课\HYTC.bbs\obj\Debug\HYTC.bbs.dll
+D:\文件\大三下\第十次课\HYTC.bbs第十次课\HYTC.bbs\obj\Debug\HYTC.bbs.pdb
+C:\Users\just\Desktop\211111013_侯伟\HYTC.bbs\bin\HYTC.bbs.dll.config
+C:\Users\just\Desktop\211111013_侯伟\HYTC.bbs\bin\HYTC.bbs.dll
+C:\Users\just\Desktop\211111013_侯伟\HYTC.bbs\bin\HYTC.bbs.pdb
+C:\Users\just\Desktop\211111013_侯伟\HYTC.bbs\obj\Debug\HYTC.bbs.csprojResolveAssemblyReference.cache
+C:\Users\just\Desktop\211111013_侯伟\HYTC.bbs\obj\Debug\HYTC.bbs.dll
+C:\Users\just\Desktop\211111013_侯伟\HYTC.bbs\obj\Debug\HYTC.bbs.pdb

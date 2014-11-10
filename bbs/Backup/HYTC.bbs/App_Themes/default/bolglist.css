@@ -1,0 +1,54 @@
+﻿#blogUL{ width:1000px; height:auto; background-color:#f9f9f9; border:1px solid rgb(200,205,210); border-bottom:0px; margin:10px;}
+.blogLi{ width:940px; height:34px;border-bottom:1px solid rgb(200,205,210); padding:5px 10px 5px 10px; cursor:pointer;}
+.newA{ display:block; width:18px; float:left; margin:8px 0 0 0; height:18px;}
+.blog2A{ width:753px; padding:5px 18px 5px 15px; float:left;}
+.blog3A{ width:120px; float:left;font-size:12px; color:#555; font-family:微软雅黑;padding:5px 3px;}
+.blogTA{ font-size:12px; color:#555; font-family:微软雅黑; line-height:24px;}
+.blogTA:hover{ color:rgb(255,102,0);}
+.authorA{ width:50px; font-size:12px; color:#555; font-family:微软雅黑; line-height:24px; display:list-item; text-align:center; float:left; padding-right:5px;}
+.pubTimeSpan{font-size:12px; color:#999; font-family:微软雅黑; line-height:24px; display:list-item; text-align:center;float:left;}
+
+
+/*topbox*/
+.topbox{ width:958px; height:179px; border:1px solid #F06435; margin-bottom:10px;}
+
+/*游戏讨论区*/
+.tpb1{width:958px; height:47px; padding-top:10px; background-image:url("../../Images/topboxbg.gif");}
+.tpb1 h2{width:908px; height:36px; padding-left:30px; margin-left:20px; background:url("../../Images/yifu.gif") no-repeat; font-family:微软雅黑; font-size:18px; line-height:18px; color:#fff;}
+.tpb1 h2 span{font-size:10px; line-height:18px; color:#F06435; font-weight:normal;font-family:Tahoma;}
+/*游戏讨论区end*/
+
+/*推荐主题*/
+.tpb2{width:958px; height:60px; border-bottom:1px solid #F99B3E; border-top:1px solid #F99B3E;}
+.tpb2 h2{width:147px; height:60px; border-right:1px solid #F99B3E;font-family: Tahoma, 'Microsoft Yahei', Simsun; font-size:12px;line-height: 60px; text-align:center;background-color: #F27F0C;float:left;}
+
+.bloglistl{width:400px; height:60px;border-right:1px solid #FEEBD8; float:left;}
+.bloglistl ul{width:350px; height:54px; margin-top:3px; margin-left:50px;}
+.bloglistl li{font-family: Tahoma, 'Microsoft Yahei', Simsun; font-size:12px;line-height: 18px;}
+.bloglistl li a{ color:#333;}
+
+.bloglistr{width:400px; height:60px;float:left;}
+.bloglistr ul{width:350px; height:54px; margin-top:3px; margin-left:50px;}
+.bloglistr li{font-family: Tahoma, 'Microsoft Yahei', Simsun; font-size:12px;line-height: 18px;}
+.bloglistr li a{ color:#333;}
+/*推荐主题end*/
+
+/*版面精华*/
+.tpb3{width:958px; height:60px; }
+.tpb3 h2{width:147px; height:60px; border-right:1px solid #F27F0C;font-family: Tahoma, 'Microsoft Yahei', Simsun; font-size:12px;line-height: 60px; text-align:center;background-color: #198A46;float:left;}
+#cs li a{ font-weight:bold; color:#f99;}
+/*版面精华end*/
+
+#Postlist{ display:block; width:956px; height:33px; margin-bottom:10px; padding:2px 2px;}
+#Postlist img{ float:right;}
+
+/*bllist*/
+#bllist{width:958px;border:1px solid #DDD; margin-bottom:15px;}
+#th{width:938px; height:35px;border-bottom:1px solid #DDD; margin-top:1px; padding:0 10px;background-color: #C23432;}
+.tbody{width:938px; height:35px;font-family: Tahoma, 'Microsoft Yahei', Simsun; font-size:12px; color: #F59C96;}
+.tf{  float:left; width:800px; height:18px;  padding:8px 18px 8px 0; font-family: Tahoma, 'Microsoft Yahei', Simsun; font-size:12px;line-height: 18px; color: #F59C96;}
+.tf span{color: #CCC;}
+.tf a{ color:#EBB314;}
+.by{  float:left;width:60px; height:25px;  padding:8px 0 8px 0px; font-family: Tahoma, 'Microsoft Yahei', Simsun; font-size:12px;line-height: 18px; color: #F59C96;}
+.num{ float:left;width:60px; height:25px;  padding:8px 0; font-family: Tahoma, 'Microsoft Yahei', Simsun; font-size:12px;line-height: 18px; color: #F59C96;}
+/*bllistEnd*/

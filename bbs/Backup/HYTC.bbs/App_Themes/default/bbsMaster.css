@@ -1,0 +1,74 @@
+﻿*{ margin:0px; padding:0px;}
+ul,li{ list-style:none;}
+a{ text-decoration:none;}
+img{ border:0;}
+
+/****************************Head***********************************/
+#nv_forum{ width:100%; height:241px; background-image:url(../../Images/bg.png); background-position: 50% 0;}
+
+#toptb{width:100%; height:30px; color:#666;}
+#switchblind{ float:right;font-size:12px; font-family:Tahoma,微软雅黑; color:#fff; text-decoration:none; margin:8px 130px 10px auto;cursor:pointer;}
+
+#mHeader{ width:100%; height:211px;}
+#wp{ width:960px; height:201px; padding-top:10px;  background-image:url(../../Images/hdbg.jpg); background-repeat:no-repeat; margin:0 auto;}
+
+#hdc{width:960px; height:169px; }
+#hdc h2{width:310px; height:120px; padding:0 20px 8px 0;margin-top:20px; float:left;}
+#hdc h2 a{ display:block; width:310px; height:120px;cursor:pointer;}
+#mUserArea{ width:152px; height:35px; float:right; padding-top:10px;}
+
+#nv{ width:960px; height:33px; background-image:url(../../Images/nvbg.png);}
+#nv a{}
+#nv ul li{ width:86px; height:33px; float:left;}
+#nv ul li a{ display:block;width:56px; height:33px;font-family:微软雅黑, Tahoma;font-size: 14px;font-weight: bold;line-height: 33px; text-align:center; color:#fff; cursor:pointer; padding: 0 15px 0 15px;}
+a.black:hover{  background-color: #2A2625;}
+/****************************Headend***********************************/
+
+
+/****************************内容区***********************************/
+#mContent{ width:960px; height:auto; min-height:350px; margin:0 auto;}
+#pt{ width:960px;  height:29px; margin:1px 0;}
+.z{ font-family:微软雅黑;font-size: 12px; line-height:29px; padding-right:10px; float:left;}
+#sz{ display:block; width:16px; height:29px; background-image:url(../../Images/search.png); background-position: -8px -119px; background-repeat:no-repeat; float:left;}
+.z a{ color:#333;float:left;}
+.z em{ display:block; width:20px; height:29px;background: url(../../Images/pt_item.png) no-repeat 3px 10px; background-repeat:no-repeat;float:left;}
+/****************************内容区end********************************/
+
+/****************************Footer***********************************/
+#mFooter{ position:relative; width:960px;height:40px; border-top:1px solid #DDD; margin:0 auto; padding:10px 0 40px 0;}
+#mFl1{height:21px;font-family:微软雅黑;font-size: 12px; line-height:20px;color: #666;}
+#mFl2{height:18px;font-family:Arial;font-size: 6px; line-height:17px;color: #666;}
+#mFr1{ position:absolute; z-index:1; display:block; height:22px;font-family:微软雅黑;font-size: 12px; line-height:20px; top:10px; right:5px;}
+#mFr1 a{color:#666;}
+#mFr2{color:#666; position:absolute; z-index:1; display:block;  height:18px;font-family:Arial;font-size: 10px; line-height:17px; top:28px; right:5px;}
+/****************************Footerend********************************/
+#curUserTmpHide{ display:none;}
+
+
+
+/****************************登录***********************************/
+#mMengban{ display:none; width:100%; height:100%; position:absolute; z-index:999; background-color:#aaa; padding:0 0 120px 0;}
+#mFormLogin{ display:none; width:500px; height:400px; background-color:#fff; border:1px solid #ccc; position:absolute; z-index:1000; left:30%; top:30%;   }
+
+#mLogin{   font-size:12px; font-family:微软雅黑; color:#fff;  text-decoration:none; display:block; float:right;  cursor:pointer;  border-right: 1px solid #E5EDF2;text-align:center; line-height:21px;background-color: #AE2124; width:75px; height:23px;}
+#mSignin{ width:75px; height:23px; font-size:12px; font-family:微软雅黑; color:#666; text-align:center;line-height:21px; text-decoration:none; display:block; float:right;  cursor:pointer; border-left: 1px solid #E5EDF2;}
+#mUserA{ font-size:12px; font-family:微软雅黑; color:#fff; text-decoration:none; display:block; float:right; cursor:pointer;border-right: 1px solid #E5EDF2;text-align:center; line-height:21px;background-color: #AE2124; width:75px; height:23px;}
+#mLogout{ font-size:12px; font-family:微软雅黑; color:#666; text-decoration:none; display:block; float:right;  cursor:pointer;text-align:center; line-height:21px; width:75px; height:23px;border-left: 1px solid #E5EDF2;}
+
+#mlogin1{ width:100%; height:100px;}
+#mlogin2{ width:100%; height:80px;}
+#mlogin3{ width:100%; height:80px;}
+#mlogin4{ width:100%; height:80px;}
+#mlogin5{ width:100%; height:60px;}
+
+
+
+#mlogin2 span,#mlogin3 span{ width:100px; display:block; font-family:微软雅黑; font-size:14px; line-height:40px; text-align:right; color:#444; font-weight:bold; float:left; }
+#mlogin2 input,#mlogin3 input{ width:280px; display:block; font-family:微软雅黑; font-size:20px; height:40px; line-height:40px; padding:0 0 0 10px; color:#444; font-weight:bold; float:left; margin:0 0 0 10px;}
+#mBtnLogin{ width:200px; height:60px; margin:auto; border:1px solid #ccc; border-radius:5px; font-size:20px; font-weight:200; font-family:微软雅黑; text-align:center; line-height:60px; cursor:pointer;  }
+#mLoginError{ display:block; width:100%; height:60px; line-height:60px; text-align:center; color:#ff5a0c; font-family:微软雅黑; }
+#mLoginTitle{ display:block; width:370px; float:left; color:#333; font-family:微软雅黑; font-size:20px; font-weight:bold; padding:0 0 0 30px; height:80px; line-height:80px;}
+#mLoginClose{ display:block; float:right; width:16px; height:16px; background-image:url("../../resImages/pass_login_icons_8502bf77.png"); background-position: -56px -48px; margin:20px 20px 0 0; cursor:pointer;}
+/****************************登录***********************************/
+
+

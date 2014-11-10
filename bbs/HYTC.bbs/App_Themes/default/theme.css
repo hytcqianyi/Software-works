@@ -1,0 +1,32 @@
+﻿*{ margin:0px; padding:0px;}
+ul,li{ list-style:none;}
+a{ text-decoration:none;}
+img{ border:0;}
+
+
+/*公告区ssectionC*/
+.sectionAg{ width:470px;height:92px;padding:10px 0; color: #666;font-size:12px;}
+.logoAg{ width:80px; height:72px; float:left; display:block;} 
+.rightAg{ width:380px; height:72px; float:left; padding:0 0 0 10px;}
+.rightAg li a{color: #06F;font-family:微软雅黑, Tahoma;font-size: 12px;}
+.rightAg li{ height:24px; line-height:24px;font-family:微软雅黑, Tahoma;font-size: 12px;}
+
+/*非公告区ssectionC*/
+.sectionA{ width:470px; height:72px; padding:10px 0; color: #666;font-size:12px;}
+.logoA{ width:200px; height:72px; float:left; display:block;} 
+.rightA{ width:260px; height:72px; float:left; padding:0 0 0 10px;}
+.rightA li a{color: #06F;font-family:微软雅黑, Tahoma;font-size: 12px;}
+.rightA li{ height:24px; line-height:24px;font-family:微软雅黑, Tahoma;font-size: 12px;}
+
+/*ssection*/
+.ssection{ width:960px;}
+.ssectionH{ width:938px; height:31px; padding:0 10px; border:1px solid #C2D5E3;background-color: #FFFDFA;}
+.ssectionH h2{font-family:微软雅黑, Tahoma;font-size: 12px;line-height: 33px;}
+.ssectionH h2 a{width:36px; height:14px;color: #88837B;cursor:pointer;}
+.ssectionC{width:940px; padding:0 10px;}
+
+
+/*底部*/
+#ssectionHL{ width:938px; height:31px; padding:0 10px; border:1px solid #C2D5E3;background-color: #FFFDFA; margin-bottom:10px;}
+#ssectionHL h2{font-family:微软雅黑, Tahoma;font-size: 12px;line-height: 33px;}
+#ssectionHL h2 a{width:36px; height:14px;color: #88837B;}

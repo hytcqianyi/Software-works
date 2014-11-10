@@ -1,0 +1,59 @@
+﻿#all{ width:960px; margin:auto;border-bottom:1px solid #ccc; }
+#blogArea{ width:960px; height:auto; min-height:350px; border:1px solid #ccc; border-bottom:1px solid #ccc;}
+.authorA{ width:152px; height:349px; border-bottom:1px solid #ccc;border-right:1px solid #ccc; float:left; position:relative; border-bottom:0;background-color: #E5EDF2;}
+.blogRight{ width:807px; height:auto; min-height:350px; float:right;}
+.seeMaster{ position:absolute; width:36px; height:36px; top:0; left:114px; background-image:url("../../res/pb_css_pic_a630a08.png"); background-position:-172px -120px;}
+.Authorpic{ display:block; width:120px; height:120px; margin:30px 10px 10px 10px;}
+.Authorpic img{ width:120px; height:120px;}
+.procs{ display:block; margin:auto; width:124px; height:50px; background-image:url("../../res/common_79_usergroup_icon.png"); font-size:14px;color:#aaa; text-align:center; line-height:36px; font-family:微软雅黑;}
+.authorTxt{ display:block; }
+.blogDetail{ width:820px; height:auto; margin:30px 0 0 10px;font-family:微软雅黑; font-size:12px; color:#444; }
+
+
+/*-----------------------------replyArea回复区----------------------------------*/
+#replyArea{width:960px; height:auto; min-height:200px; border-left:1px solid #ccc; border-right:1px solid #ccc; margin:auto;}
+.replyA{width:100%; height:auto; min-height:200px;  overflow:auto; border-bottom:1px solid #ccc;background-color: #E5EDF2;}
+.replyL{ width:150px; height:200px; background-color:#fafbfc;float:left;background-color: #E5EDF2;}
+.authorTxt{ font-family:微软雅黑,Arial; font-size:14px; color:#444; margin:1px auto; text-align:center;}
+.replyR{width:808px; height:auto; min-height:200px; float:right; overflow:auto;  padding-bottom:10px;border-left:1px solid #ccc;background-color: #fff;}
+.replyContent{ width:758px; padding:15px 20px;font-family:微软雅黑,Arial; font-size:12px;color:#444;}
+
+.ReAuthorpic{ display:block; width:30px; height:30px; margin:2px 2px 2px 2px;}
+.ReAuthorpic img{ width:30px; height:30px;}
+.RereplyL{ width:40px; height:50px; background-color:#fafbfc;float:left;}
+.ReauthorTxt{ font-family:Arial,微软雅黑; font-size:10px; color:#444; margin:1px auto; text-align:center;}
+.RereplyR{width:678px; height:auto; min-height:50px; float:right; overflow:auto;}
+.RereplyContent{ width:558px; padding:15px 20px;font-family:微软雅黑,Arial; font-size:12px;color:#444;float:left;}
+.RereplyOfReply{ width:40px; padding:15px 20px; float:right;font-family:Arial,微软雅黑; font-size:10px; color:#444; text-align:center;}
+.RebtnRR{ width:40px;  font-family:微软雅黑,Arial; font-size:10px;color:#444; text-align:center; cursor:pointer; }
+
+
+
+/*------------------------------回复显示消失------------------------------------*/
+.replyOfReply{width:718px; padding:15px 20px 15px 20px; margin:100px 25px auto 25px;background-color:#f7f8fa;}
+.rorTitle{ height:30px;}
+.btnShowReplys{ display:block; float:right; font-family:微软雅黑,Arial; font-size:12px; color:#444;cursor:pointer;}
+.rorContent{ height:auto; overflow:auto; display:none;}
+.rorContent li{ height:auto; overflow:auto; border-bottom:1px solid #d7d7d7;}
+.rorC{ height:auto; overflow:auto;}
+.rorReply{ height:30px;}
+.rorPP{display:block; float:right; font-family:微软雅黑,Arial; font-size:12px; color:#444;cursor:pointer;}
+.rorCAuthor{width:185px; height:120px; float:left;}
+.rorCC{ width:620px; height:auto; overflow:auto; float:right; min-height:40px;}
+.rAuthorpic{ display:block; width:120px; height:120px; margin:0 5px 0 0; float:left; padding:1px; border:1px solid #ccc;}
+.rAuthorpic img{width:120px; height:120px;}
+.rauthorTxt{ font-family:微软雅黑,Arial; font-size:14px; color:#444;width:65px; height:120px; line-height:120px;}
+.rauthorTxt:hover{color:#444;}
+
+.rorOpe{ height:auto; min-height:45px; padding:5px 0 0 0; display:none;}
+.txtRR{ height:45px; border:1px solid #ccc; margin:0 10px 0 0; width:558px; font-family:微软雅黑,Arial; font-size:12px; color:#444; padding:0 0 0 15px;  float:left;}/*display:block;*/
+.btnRR{ width:110px; border:1px solid #ccc;  font-family:微软雅黑,Arial; font-size:12px;color:#444; float:left; text-align:center; line-height:45px; cursor:pointer; }
+/*-----------------------------回复显示消失end----------------------------------*/
+/*-----------------------------replyArea回复区end-------------------------------*/
+
+/*-----------------------------opeArea回复区-----------------------------------*/
+#opeArea{ width:760px; margin:15px auto; padding:20px; border:1px solid #ccc; height:auto; min-height:45px; background-repeat:no-repeat; background-position:center;}
+#txtReply{ display:none; width:600px; height:45px; line-height:45px; float:left; font-family:微软雅黑; font-size:14px; color:#666; padding:0 0 0 10px; background-image:url("../../Images/hfbg.jpg"); }
+#btnReply{ width:100px; height:45px; line-height:45px; text-align:center; float:right; font-family:微软雅黑; color:#666; font-size:14px; margin:0 10px 0 0; border:1px solid #99CCFF; cursor:pointer;}
+#hideTmp{ display:none;}
+/*-----------------------------opeArea回复区end-----------------------------------*/
