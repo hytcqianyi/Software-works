@@ -1,0 +1,10 @@
+G:\我的文档\网络编程\复件 EasyChat_Server\obj\Release\EasyChat_Server.exe
+G:\我的文档\网络编程\复件 EasyChat_Server\obj\Release\EasyChat_Server.pdb
+G:\我的文档\网络编程\复件 EasyChat_Server\obj\Release\ResolveAssemblyReference.cache
+G:\我的文档\网络编程\复件 EasyChat_Server\bin\Release\EasyChat_Server.exe
+G:\我的文档\网络编程\复件 EasyChat_Server\bin\Release\EasyChat_Server.pdb
+C:\Users\just\Desktop\EasyChat_Server\obj\Release\EasyChat_Server.exe
+C:\Users\just\Desktop\EasyChat_Server\obj\Release\EasyChat_Server.pdb
+C:\Users\just\Desktop\EasyChat_Server\bin\Release\EasyChat_Server.exe
+C:\Users\just\Desktop\EasyChat_Server\bin\Release\EasyChat_Server.pdb
+C:\Users\just\Desktop\EasyChat_Server\obj\Release\EasyChat_Server.csprojResolveAssemblyReference.cache
